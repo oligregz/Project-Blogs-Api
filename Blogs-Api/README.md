@@ -1,0 +1,1 @@
+Essa aplicação é um CRUD feito para o banco de dados MySQL desenvolvido em Nodejs, express com auxílio do ORM Sequelize atendendo a estrutura de camadas MSC e o padrão RESTfull com boas práticas de desenvolvimento.
